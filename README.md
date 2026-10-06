@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4158D0,50:C850C0,100:FFCC70&height=220&section=header&text=Vicko%20Harvioni&fontSize=50&fontAlign=50&fontAlignY=38&desc=Backend%20Developer%20%7C%20Software%20Engineer&descSize=18&descAlign=50&descAlignY=62&fontFamily=Montserrat&fontColor=ffffff" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4158D0,50:C850C0,100:FFCC70&height=220&section=header&text=Kasih%20Harvioni&fontSize=50&fontAlign=50&fontAlignY=38&desc=Backend%20Developer%20%7C%20Software%20Engineer&descSize=18&descAlign=50&descAlignY=62&fontFamily=Montserrat&fontColor=ffffff" alt="Header Banner" />
 </p>
 
 <!-- Terminal Typing Animation -->
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=61DAFB&center=true&vCenter=true&multiline=true&width=600&height=100&lines=const+developer+%3D+new+BackendDeveloper('Vicko')%3B;developer.buildScalableAPIs()%3B;developer.optimizeDatabases()%3B" alt="Terminal Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=61DAFB&center=true&vCenter=true&multiline=true&width=600&height=100&lines=const+developer+%3D+new+BackendDeveloper('Kasih')%3B;developer.buildScalableAPIs()%3B;developer.optimizeDatabases()%3B" alt="Terminal Typing Animation" />
   </a>
 </p>
 
@@ -46,8 +46,8 @@
 
 ### 📈 GitHub Analytics & Contribution
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=vickoharvioni12-web&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=vickoharvioni12-web&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=KasihRizal12-web&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kasihrizal12-web&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
 </p>
 
 ---
